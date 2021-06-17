@@ -2,6 +2,12 @@ namespace MarsRovers.Models
 {
     public class Coordinates
     {
+        public Coordinates()
+        {
+            this.X = 0;
+            this.Y = 0;
+        }
+
         public Coordinates(int x, int y)
         {
             this.X = x;
