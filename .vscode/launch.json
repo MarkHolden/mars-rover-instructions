@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/net5.0/mars-rover-instructions.dll",
+            "program": "${workspaceFolder}/MarsRovers/bin/Debug/net5.0/MarsRovers.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "integratedTerminal",

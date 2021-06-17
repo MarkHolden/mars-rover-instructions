@@ -1,8 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using Microsoft.Extensions.DependencyInjection;
-using MarsRovers.Models;
 using MarsRovers.Services;
+using Microsoft.Extensions.DependencyInjection;
 
 namespace MarsRovers
 {
