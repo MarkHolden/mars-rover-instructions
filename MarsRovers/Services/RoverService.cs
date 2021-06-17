@@ -1,7 +1,5 @@
 using System;
-using System.Collections.Generic;
 using MarsRovers.Models;
-using MarsRovers.Services;
 
 namespace MarsRovers.Services
 {

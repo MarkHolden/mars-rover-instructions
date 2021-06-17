@@ -1,5 +1,3 @@
-using System;
-
 namespace MarsRovers.Models
 {
     public class Pose
