@@ -35,7 +35,7 @@ namespace MarsRovers.Services
             return newPosition;
         }
 
-        public Coordinates GetPositionDelta(HeadingType heading) => heading switch
+        private Coordinates GetPositionDelta(HeadingType heading) => heading switch
         {
             HeadingType.N => new Coordinates(0, 1),
             HeadingType.W => new Coordinates(-1, 0),
